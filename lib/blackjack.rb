@@ -35,7 +35,7 @@ def initial_round
  card
 end
 
-def hit?
+def hit?(x)
   # code hit? here
 end
 
